@@ -1,0 +1,13 @@
+# Target build folder (Crucial for Maven)
+target/
+
+# Eclipse configuration files
+.classpath
+.project
+.settings/
+.factorypath
+bin/
+
+# Logs and OS temporary files
+*.log
+.DS_Store
